@@ -1,0 +1,13 @@
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\bin\Debug\netcoreapp3.1\exalunos.exe
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\bin\Debug\netcoreapp3.1\exalunos.deps.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\bin\Debug\netcoreapp3.1\exalunos.runtimeconfig.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\bin\Debug\netcoreapp3.1\exalunos.runtimeconfig.dev.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\bin\Debug\netcoreapp3.1\exalunos.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\bin\Debug\netcoreapp3.1\exalunos.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.csprojAssemblyReference.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.AssemblyInfoInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.AssemblyInfo.cs
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.csproj.CoreCompileInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\exalunos\obj\Debug\netcoreapp3.1\exalunos.genruntimeconfig.cache
